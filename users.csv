@@ -1,0 +1,4 @@
+patient_id,age,height,weight,cholesterol,ethnicity,primary_emotion
+1,25,170,75,190,Hispanic,Anxious
+2,40,165,85,220,Asian,Happy
+2508,18,175,105,80,Asian,Happy
